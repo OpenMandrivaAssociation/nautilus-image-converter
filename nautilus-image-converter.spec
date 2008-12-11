@@ -10,7 +10,7 @@ BuildRequires:	gnome-vfs2-devel >= 2.6.0
 BuildRequires:	intltool >= 0.35.0
 BuildRequires:	libglade2-devel >= 2.4.0
 BuildRequires:	nautilus-devel >= 2.6.0
-Requires:	ImageMagick
+Requires:	imagemagick
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root-
 
 %description
