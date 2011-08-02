@@ -1,7 +1,7 @@
 Summary:	Nautilus extension to mass resize or rotate images
 Name:		nautilus-image-converter
 Version:	0.3.0
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPLv2+
 Group:		Graphical desktop/GNOME
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/nautilus-image-converter/%{name}-%{version}.tar.bz2
