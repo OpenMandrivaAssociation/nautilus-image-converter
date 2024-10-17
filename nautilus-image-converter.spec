@@ -5,7 +5,7 @@ Release:	%mkrel 4
 License:	GPLv2+
 Group:		Graphical desktop/GNOME
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/nautilus-image-converter/%{name}-%{version}.tar.bz2
-URL:		http://www.bitron.ch/software/nautilus-image-converter.php
+URL:		https://www.bitron.ch/software/nautilus-image-converter.php
 BuildRequires:	gnome-vfs2-devel >= 2.6.0
 BuildRequires:	intltool >= 0.35.0
 BuildRequires:	libglade2-devel >= 2.4.0
